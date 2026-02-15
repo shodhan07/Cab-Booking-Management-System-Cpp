@@ -1,0 +1,11 @@
+﻿# Build output
+cab_system
+cab_system.exe
+
+# IDE and VSCode
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
